@@ -1,0 +1,19 @@
+# This chunk states fruit stock in my home now
+
+```
+## Fruit stock 16 Oct
+
+   1. apple = 5
+   2. pear = 4
+   3. mandarin=1
+```
+
+```
+The wee one is allergic to [soya](https://www.allergyuk.org/resources/soya-allergy-factsheet/)
+
+that means it's better not taking
+    
+* tofu
+* soy-based yogurt
+* natou
+```
